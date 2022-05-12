@@ -1,0 +1,21 @@
+@font-face{
+	font-family: 'NanumGothic';
+	src: url(../fonts/NanumGothic/NanumGothic-Regular.ttf);
+}
+
+.logo{
+	font-family: 'NanumGothic';
+	font-size: 5rem;
+}
+
+body{
+         font-style: normal;
+         font-size: 2.5em;
+         font-family: "NanumGothic";
+   }
+
+footer {
+    position: fixed;
+    bottom:0;
+    left:0;
+}		
